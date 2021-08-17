@@ -2,6 +2,9 @@
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning React js
 
+Link to codeWars:
+https://www.codewars.com/users/djaskra
+
 Some online stuff:
 1) word-game-app -> https://word-game-ap.netlify.app/
 <!---
